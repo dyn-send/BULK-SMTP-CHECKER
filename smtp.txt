@@ -1,0 +1,2 @@
+smtp.office365.com|587|leli58@msn.com|Lp230645@
+smtp.office365.com|587|cepe_60@msn.com|Cepe1985!
